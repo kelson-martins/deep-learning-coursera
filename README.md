@@ -1,1 +1,1 @@
-# deep-learning-coursera
+# deep-learning-specialization-coursera
